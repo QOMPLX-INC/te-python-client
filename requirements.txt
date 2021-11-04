@@ -1,0 +1,7 @@
+decorator
+requests>=2.1.0
+pika
+websocket-client
+six
+kafka-python
+prompt_toolkit
